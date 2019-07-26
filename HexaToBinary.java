@@ -1,4 +1,4 @@
-package col106;
+
 import java.util.Scanner;
 public class HexaToBinary {
 
